@@ -32,6 +32,7 @@ Objective:-
 8.Compare location-wise Ad Interaction, which have more then 3 interaction.
 
 Conclusion:-
+
 1.SQL helps analyze marketing campaign performance effectively.
 
 2.JOIN queries provide complete performance view.
